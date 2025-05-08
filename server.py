@@ -2,7 +2,7 @@ from mcp.server.fastmcp import FastMCP, Context
 import requests
 from typing import Dict, Any
 
-TAVILY_API_KEY = "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"
+TAVILY_API_KEY = "Tavily-api-key"
 
 mcp = FastMCP(
     name="Research Assistant",
